@@ -1,0 +1,17 @@
+{
+  "name": "rxjs_from_scratch",
+  "version": "1.0.0",
+  "description": "A basic implementation of rxjs style observables",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tyler B Joudrey",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.18.2"
+  },
+  "dependencies": {
+    "@babel/core": "^7.18.2"
+  }
+}
